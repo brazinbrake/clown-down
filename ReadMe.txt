@@ -1,0 +1,1 @@
+Copy/Paste all Image and sound files to C:\Temp folder
